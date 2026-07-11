@@ -18,7 +18,7 @@ You can download the latest translations via the official [Inno Setup Translatio
 
 - Download the `Farsi.isl` file from the [official website][official-translations] or this repository.
 - Copy the `Farsi.isl` to the same directory as your script file.
-- Then add the following lines to your script.
+- Add the following lines to your script.
 
 ```
 [Languages]
