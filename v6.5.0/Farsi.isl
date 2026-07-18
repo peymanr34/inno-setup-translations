@@ -68,12 +68,12 @@ UninstallAppRunningError=حذف کننده تشخیص داده است که %1 ه
 ; *** Startup questions
 PrivilegesRequiredOverrideTitle=انتخاب نحوه نصب توسط نصب کننده
 PrivilegesRequiredOverrideInstruction=انتخاب نحوه نصب
-PrivilegesRequiredOverrideText1=%1 را می‌توان برای تمامی کاربران (نیازمند دسترسی مدیر سیستم)، و یا تنها برای شما نصب کرد.‏
-PrivilegesRequiredOverrideText2=%1 را می‌توان تنها برای شما، و یا تمامی کاربران (نیازمند دسترسی مدیر سیستم) است.‏
+PrivilegesRequiredOverrideText1=%1 را می‌توان برای تمامی کاربران (نیازمند دسترسی مدیر سیستم)، و یا تنها برای شما نصب کرد.
+PrivilegesRequiredOverrideText2=%1 را می‌توان تنها برای شما، و یا تمامی کاربران (نیازمند دسترسی مدیر سیستم) است.
 PrivilegesRequiredOverrideAllUsers=نصب برای &تمامی کاربران
-PrivilegesRequiredOverrideAllUsersRecommended=نصب برای &تمامی کاربران (پیشنهاد می‌شود)‏
+PrivilegesRequiredOverrideAllUsersRecommended=نصب برای &تمامی کاربران (پیشنهاد می‌شود)
 PrivilegesRequiredOverrideCurrentUser=نصب تنها برای &من
-PrivilegesRequiredOverrideCurrentUserRecommended=نصب تنها برای &من (پیشنهاد می‌شود)‏
+PrivilegesRequiredOverrideCurrentUserRecommended=نصب تنها برای &من (پیشنهاد می‌شود)
 
 ; *** Misc. errors
 ErrorCreatingDir=نصب کننده قادر به ایجاد پوشه نبود "%1"
@@ -81,7 +81,7 @@ ErrorTooManyFilesInDir=ایجاد یک فایل در پوشه "%1" بدلیل آ
 
 ; *** Setup common messages
 ExitSetupTitle=خروج از نصب کننده
-ExitSetupMessage=نصب به پایان نرسیده است. در صورتی که اکنون خارج شوید برنامه نصب نخواهد شد.‏%n%nشما می‌توانید نصب کننده را مجدداً در زمانی دیگر برای تکمیل عملیات نصب اجرا کنید.‏%n%nآیا مایل به خروج هستید؟
+ExitSetupMessage=نصب به پایان نرسیده است. در صورتی که اکنون خارج شوید برنامه نصب نخواهد شد.%n%nشما می‌توانید نصب کننده را مجدداً در زمانی دیگر برای تکمیل عملیات نصب اجرا کنید.%n%nآیا مایل به خروج هستید؟
 AboutSetupMenuItem=&درباره نصب کننده...
 AboutSetupTitle=درباره نصب کننده
 AboutSetupMessage=%1 نسخه %2%n%3%n%n%1 وب سایت:%n%4
@@ -100,7 +100,7 @@ ButtonNo=&خیر
 ButtonNoToAll=ن&ه برای همه
 ButtonFinish=&پایان
 ButtonBrowse=&مرور...
-ButtonWizardBrowse=م&رور...‏
+ButtonWizardBrowse=م&رور...
 ButtonNewFolder=&ایجاد پوشه جدید
 
 ; *** "Select Language" dialog messages
@@ -108,61 +108,61 @@ SelectLanguageTitle=انتخاب زبان نصب کننده
 SelectLanguageLabel=زبانی را که می‌خواهید در حین نصب استفاده کنید را انتخاب کنید.
 
 ; *** Common wizard text
-ClickNext=برای ادامه بر روی بعدی کلیک کنید، برای خروج از نصب کننده بر روی انصراف کلیک کنید.‏
+ClickNext=برای ادامه بر روی بعدی کلیک کنید، برای خروج از نصب کننده بر روی انصراف کلیک کنید.
 BeveledLabel=
 BrowseDialogTitle=مرور برای پوشه
-BrowseDialogLabel=از لیست زیر یک پوشه را انتخاب کرده و سپس بر روی تایید کلیک کنید.‏
+BrowseDialogLabel=از لیست زیر یک پوشه را انتخاب کرده و سپس بر روی تایید کلیک کنید.
 NewFolderName=پوشه جدید
 
 ; *** "Welcome" wizard page
 WelcomeLabel1=به ویزارد نصب کننده [name] خوش آمدید
-WelcomeLabel2=این [name/ver] را بر روی کامپیوتر شما نصب می‌کند.‏%n%nپیشنهاد می‌شود قبل از ادامه تمامی اپلیکیشن های دیگر را ببندید.‏ 
+WelcomeLabel2=این [name/ver] را بر روی کامپیوتر شما نصب می‌کند.%n%nپیشنهاد می‌شود قبل از ادامه تمامی اپلیکیشن های دیگر را ببندید. 
 
 ; *** "Password" wizard page
 WizardPassword=گذرواژه
-PasswordLabel1=این نصب کننده با گذرواژه محافظت شده است.‏
-PasswordLabel3=لطفاً یک گذرواژه را وارد کنید، سپس بر روی بعدی کلیک کنید. گذرواژه ها حساس به حروف بزرگ و کوچک هستند.‏
-PasswordEditLabel=&گذرواژه:‏
-IncorrectPassword=گذرواژه وارد شده اشتباه است. لطفاً مجدداً تلاش کنید.‏
+PasswordLabel1=این نصب کننده با گذرواژه محافظت شده است.
+PasswordLabel3=لطفاً یک گذرواژه را وارد کنید، سپس بر روی بعدی کلیک کنید. گذرواژه ها حساس به حروف بزرگ و کوچک هستند.
+PasswordEditLabel=&گذرواژه:
+IncorrectPassword=گذرواژه وارد شده اشتباه است. لطفاً مجدداً تلاش کنید.
 
 ; *** "License Agreement" wizard page
 WizardLicense=توافقنامه استفاده
-LicenseLabel=لطفاً اطلاعات مهم زیر را قبل از ادامه مطالعه کنید.‏
+LicenseLabel=لطفاً اطلاعات مهم زیر را قبل از ادامه مطالعه کنید.
 LicenseLabel3=لطفاً توافقنامه زیر را مطالعه کنید. شما باید مفاد این توافقنامه را پیش از ادامه نصب برنامه بپذیرید.
 LicenseAccepted=من توافقنامه را &می‌پذیرم
 LicenseNotAccepted=من توافقنامه را &نمی‌پذیرم
 
 ; *** "Information" wizard pages
 WizardInfoBefore=اطلاعات
-InfoBeforeLabel=لطفاً اطلاعات مهم زیر را قبل از ادامه مطالعه کنید.‏‏
-InfoBeforeClickLabel=زمانی که آماده برای ادامه نصب هستید، بر روی بعدی کلیک کنید‏.‏
+InfoBeforeLabel=لطفاً اطلاعات مهم زیر را قبل از ادامه مطالعه کنید.
+InfoBeforeClickLabel=زمانی که آماده برای ادامه نصب هستید، بر روی بعدی کلیک کنید.
 WizardInfoAfter=اطلاعات
-InfoAfterLabel=لطفاً اطلاعات مهم زیر را قبل از ادامه مطالعه کنید.‏
-InfoAfterClickLabel=زمانی که آماده برای ادامه‌ی نصب هستید، بر روی بعدی کلیک کنید‏.‏
+InfoAfterLabel=لطفاً اطلاعات مهم زیر را قبل از ادامه مطالعه کنید.
+InfoAfterClickLabel=زمانی که آماده برای ادامه‌ی نصب هستید، بر روی بعدی کلیک کنید.
 
 ; *** "User Information" wizard page
 WizardUserInfo=اطلاعات کاربر
-UserInfoDesc=لطفاً اطلاعات خود را وارد کنید.‏
-UserInfoName=&نام کاربری:‏
-UserInfoOrg=&سازمان:‏
-UserInfoSerial=&شماره سریال:‏
+UserInfoDesc=لطفاً اطلاعات خود را وارد کنید.
+UserInfoName=&نام کاربری:
+UserInfoOrg=&سازمان:
+UserInfoSerial=&شماره سریال:
 UserInfoNameRequired=شما باید یک نام را وارد کنید.
 
 ; *** "Select Destination Location" wizard page
 WizardSelectDir=انتخاب محل مقصد
 SelectDirDesc=کجا باید [name] نصب شود؟
-SelectDirLabel3=نصب کننده [name] را در پوشه زیر نصب می‌کند.‏
-SelectDirBrowseLabel=برای ادامه، بر روی بعدی کلیک کنید. اگر مایل به انتخاب پوشه دیگری هستید، بر روی مرور کلیک کنید.‏
-DiskSpaceGBLabel=حداقل [gb] گیگابایت از فضای خالی دیسک مورد نیاز است.‏
-DiskSpaceMBLabel=حداقل [mb] مگابایت از فضای خالی دیسک مورد نیاز است.‏
+SelectDirLabel3=نصب کننده [name] را در پوشه زیر نصب می‌کند.
+SelectDirBrowseLabel=برای ادامه، بر روی بعدی کلیک کنید. اگر مایل به انتخاب پوشه دیگری هستید، بر روی مرور کلیک کنید.
+DiskSpaceGBLabel=حداقل [gb] گیگابایت از فضای خالی دیسک مورد نیاز است.
+DiskSpaceMBLabel=حداقل [mb] مگابایت از فضای خالی دیسک مورد نیاز است.
 CannotInstallToNetworkDrive=نصب کننده نمی‌تواند در یک درایو شبکه نصب را انجام دهد.
 CannotInstallToUNCPath=نصب کننده نمی‌تواند در یک UNC path نصب را انجام دهد.
 InvalidPath=شما باید یک آدرس کامل همراه با اسم درایو وارد کنید؛ به عنوان مثال:%n%nC:\APP%n%nو یا یک مسیر UNC به شکل مقابل:%n%n\\server\share
 InvalidDrive=درایو یا UNC share انتخاب شده وجود ندارد و یا غیر قابل دسترسی است. لطفاً یک مسیر دیگر را انتخاب کنید.
 DiskSpaceWarningTitle=فضای خالی دیسک کافی نیست
 DiskSpaceWarning=نصب کننده به حداقل %1 کیلوبایت فضای خالی برای نصب نیاز دارد، اما درایو انتخاب شده فقط %2 کیلوبایت فضای آزاد دارد.%n%nآیا مایل به ادامه هستید؟
-DirNameTooLong=نام پوشه یا مسیر بسیار طولانی است.‏
-InvalidDirName=نام پوشه صحیح نیست.‏
+DirNameTooLong=نام پوشه یا مسیر بسیار طولانی است.
+InvalidDirName=نام پوشه صحیح نیست.
 BadDirName32=نام پوشه‌ها نمی‌تواند شامل کاراکتر های مقابل باشد:%n%n%1
 DirExistsTitle=پوشه از قبل وجود دارد
 DirExists=این پوشه:%n%n%1%n%nاز قبل وجود دارد. آیا بهرحال مایل به نصب در آن پوشه هستید؟
@@ -172,7 +172,7 @@ DirDoesntExist=این پوشه:%n%n%1%n%nوجود ندارد. آیا مایل ب
 ; *** "Select Components" wizard page
 WizardSelectComponents=انتخاب اجزاء
 SelectComponentsDesc=کدام اجزاء باید نصب شوند؟
-SelectComponentsLabel2=اجزایی که مایل به نصب آن‌ها هستید را انتخاب کنید؛ اجزایی را که نمی‌خواهید نصب کنید را از حالت انتخاب بردارید.‏ زمانی که آماده برای ادامه بودید بر روی بعدی کلیک کنید.
+SelectComponentsLabel2=اجزایی که مایل به نصب آن‌ها هستید را انتخاب کنید؛ اجزایی را که نمی‌خواهید نصب کنید را از حالت انتخاب بردارید. زمانی که آماده برای ادامه بودید بر روی بعدی کلیک کنید.
 FullInstallation=نصب کامل
 ; if possible don't translate 'Compact' as 'Minimal' (I mean 'Minimal' in your language)
 CompactInstallation=نصب فشرده
@@ -181,13 +181,13 @@ NoUninstallWarningTitle=اجزاء وجود دارند
 NoUninstallWarning=نصب کننده تشخیص داده است که اجزای فوق از قبل بر روی کامپیوتر شما نصب شده است:%n%n%1%n%nعدم انتخاب این اجزاء باعث حذف شدن آن‌ها نمی‌شود.%n%nآیا مایل به ادامه هستید؟
 ComponentSize1=%1 کیلوبایت
 ComponentSize2=%1 مگابایت
-ComponentsDiskSpaceGBLabel=انتخاب فعلی به حداقل [gb] گیگابایت فضای خالی دیسک نیاز دارد.‏
-ComponentsDiskSpaceMBLabel=انتخاب فعلی به حداقل [mb] مگابایت فضای خالی دیسک نیاز دارد.‏
+ComponentsDiskSpaceGBLabel=انتخاب فعلی به حداقل [gb] گیگابایت فضای خالی دیسک نیاز دارد.
+ComponentsDiskSpaceMBLabel=انتخاب فعلی به حداقل [mb] مگابایت فضای خالی دیسک نیاز دارد.
 
 ; *** "Select Additional Tasks" wizard page
 WizardSelectTasks=انتخاب وظایف اضافی
 SelectTasksDesc=کدام وظایف اضافی باید انجام شود؟
-SelectTasksLabel2=وظایف اضافی را که تمایل دارید در هنگام نصب [name] انجام داده شود را انتخاب کرده، سپس بر روی بعدی کلیک کنید.‏
+SelectTasksLabel2=وظایف اضافی را که تمایل دارید در هنگام نصب [name] انجام داده شود را انتخاب کرده، سپس بر روی بعدی کلیک کنید.
 
 ; *** "Select Start Menu Folder" wizard page
 WizardSelectProgramGroup=انتخاب پوشه منوی استارت
@@ -202,9 +202,9 @@ NoProgramGroupCheck2=پوشه‌ای در منوی استارت ایجاد &نش
 
 ; *** "Ready to Install" wizard page
 WizardReady=آماده نصب
-ReadyLabel1=نصب کننده آماده شروع نصب [name] بر روی کامپیوتر شماست.‏
+ReadyLabel1=نصب کننده آماده شروع نصب [name] بر روی کامپیوتر شماست.
 ReadyLabel2a=برای ادامه نصب بر روی نصب کلیک کنید، و یا اگر تمایل به بازبینی یا تغییر تنظیمات دارید بر روی قبلی کلیک کنید.
-ReadyLabel2b=برای ادامه نصب بر روی نصب کلیک کنید.‏
+ReadyLabel2b=برای ادامه نصب بر روی نصب کلیک کنید.
 ReadyMemoUserInfo=اطلاعات کاربر:
 ReadyMemoDir=محل مقصد:
 ReadyMemoType=نوع نصب:
