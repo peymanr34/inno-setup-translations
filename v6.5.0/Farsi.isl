@@ -10,6 +10,8 @@
 ;
 ; Translated by:
 ;   Peyman Mohammadi (peymanr34@outlook.com)
+; For contributions, please visit:
+;   https://github.com/peymanr34/inno-setup-translations
 
 [LangOptions]
 ; The following three entries are very important. Be sure to read and 
